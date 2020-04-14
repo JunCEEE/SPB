@@ -1,0 +1,325 @@
+[-0.0749684   0.01514679 -0.01067175 -0.06913608]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0158106.h5
+
+[ 0.05372077 -0.02128118  0.0258641  -0.0257168 ]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0142330.h5
+
+[ 0.05372077 -0.03037208  0.00221122 -0.06441858]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0142358.h5
+
+[-0.03279161  0.0084728  -0.10790309 -0.01486695]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0153014.h5
+
+[ 0.01013455 -0.00671768 -0.05821041 -0.00584798]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0147755.h5
+
+[ 0.01013455 -0.01609081 -0.08262347 -0.05239864]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0147784.h5
+
+[-0.03279161  0.02003068  0.08869979 -0.00965758]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0152975.h5
+
+[-0.11630812  0.05158889  0.01432658  0.00091095]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0162905.h5
+
+[ 0.05372077 -0.01008058  0.00567706  0.02749306]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0142296.h5
+
+[-0.03279161 -0.0009138   0.00267273 -0.06425999]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0153039.h5
+
+[-0.03279161  0.02003068  0.04895727  0.01263304]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0152976.h5
+
+[ 0.09787633 -0.02446181 -0.0084068   0.02126263]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0136719.h5
+
+[-0.03279161  0.02003068 -0.08464199  0.03391102]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0152979.h5
+
+[ 0.09787633 -0.01175928  0.01438262  0.06103125]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0136680.h5
+
+[ 0.05372077 -0.01008058  0.04872883  0.01256387]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0142295.h5
+
+[ 0.01013455  0.00479174 -0.08008833  0.03728423]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0147721.h5
+
+[ 0.01013455 -0.00671768  0.06999891 -0.04690528]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0147752.h5
+
+[ 0.01013455  0.00479174 -0.03452013  0.03732714]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0147720.h5
+
+[ 0.01013455  0.03410822  0.00952348  0.11824313]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0147632.h5
+
+[ 0.01013455  0.01841092  0.0750033   0.05174759]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0147677.h5
+
+[-0.0749684   0.02426934 -0.07663579 -0.01852901]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0158081.h5
+
+[-0.0749684   0.03560734 -0.05287815  0.02656135]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0158048.h5
+
+[ 0.01013455  0.00479174  0.09267142 -0.00886139]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0147717.h5
+
+[ 0.01013455 -0.01609081  0.04661051 -0.08512911]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0147781.h5
+
+[ 0.01013455  0.00479174  0.05319392  0.01389796]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0147718.h5
+
+[ 0.01013455 -0.00671768  0.10392943 -0.07728317]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0147751.h5
+
+[ 0.05372077  0.00320441 -0.06200987  0.07883516]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0142257.h5
+
+[-0.03279161  0.02003068 -0.03908306  0.03476155]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0152978.h5
+
+[-0.03279161  0.0084728   0.0262299  -0.02560054]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0153011.h5
+
+[ 0.05372077 -0.02128118 -0.06315729 -0.00908166]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0142332.h5
+
+[ 0.05372077  0.00320441 -0.01650691  0.07613918]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0142256.h5
+
+[ 0.05372077  0.00320441  0.07070777  0.05050018]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0142254.h5
+
+[ 0.01013455 -0.01609081 -0.03713642 -0.05164804]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0147783.h5
+
+[ 0.01013455 -0.02330589  0.02262505 -0.1235314 ]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0147804.h5
+
+[ 0.09787633 -0.03509712 -0.03221548 -0.01981696]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0136752.h5
+
+[-0.0749684   0.02426934  0.01314227 -0.02996506]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0158079.h5
+
+[-0.03279161 -0.0009138  -0.04166481 -0.05409144]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0153040.h5
+
+[ 0.05372077  0.00320441  0.02807119  0.06662187]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0142255.h5
+
+[ 0.01013455  0.01841092 -0.01189033  0.07847738]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0147679.h5
+
+[ 0.01013455  0.01841092 -0.05734954  0.0818426 ]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0147680.h5
+
+[-0.03279161 -0.00810659  0.01876736 -0.12419239]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0153060.h5
+
+[ 0.01013455 -0.02330589 -0.01727664 -0.10191069]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0147805.h5
+
+[ 0.05372077  0.01854408  0.00513812  0.11618543]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0142210.h5
+
+[ 0.01013455  0.01841092  0.15014845  0.00057936]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0147675.h5
+
+[ 0.09787633 -0.02446181  0.03527583  0.00831045]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0136718.h5
+
+[ 0.01013455  0.00479174  0.12759401 -0.03813381]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0147716.h5
+
+[-0.03279161  0.0084728   0.06606689 -0.04766643]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0153010.h5
+
+[ 0.01013455  0.00479174 -0.12495597  0.02932447]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0147722.h5
+
+[-0.0749684   0.03560734  0.03606533  0.00857021]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0158046.h5
+
+[  1.42509297e-01  -3.81343365e-02   1.22802220e-02   1.32218003e-04]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0131014.h5
+
+[-0.03279161  0.03373235  0.07074775  0.05051187]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0152935.h5
+
+[-0.03279161 -0.0009138   0.04271178 -0.08584914]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0153038.h5
+
+[ 0.05372077 -0.03037208 -0.0421508  -0.05435963]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0142359.h5
+
+[ 0.01013455  0.00479174  0.01036241  0.02945185]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0147719.h5
+
+[ 0.05372077 -0.01008058 -0.08488677  0.03372696]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0142298.h5
+
+[ 0.05372077 -0.02128118 -0.0177564  -0.01263542]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0142331.h5
+
+[ 0.01013455  0.01841092  0.11449432  0.02898085]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0147676.h5
+
+[ 0.01013455 -0.00671768  0.03047791 -0.02427371]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0147753.h5
+
+[ 0.05372077 -0.01008058 -0.03932874  0.03462142]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0142297.h5
+
+[ 0.05372077 -0.02128118  0.06572823 -0.04773317]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0142329.h5
+
+[ 0.01013455  0.01841092  0.03255866  0.06837034]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0147678.h5
+
+[-0.03279161 -0.0009138  -0.08711018 -0.05607522]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0153041.h5
+
+[ 0.01013455 -0.01609081  0.0069644  -0.06281725]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0147782.h5
+
+[ 0.01013455 -0.00671768 -0.10347553 -0.01086451]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0147756.h5
+
+[ 0.09787633 -0.03509712  0.0120842  -0.03033729]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0136751.h5
+
+[ 0.01013455 -0.00671768 -0.14669836 -0.02521314]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0147757.h5
+
+[-0.03279161  0.03373235  0.02811295  0.06663826]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0152936.h5
+
+[-0.0749684   0.03560734  0.0766083  -0.01221976]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0158045.h5
+
+[ 0.05372077 -0.01008058  0.08848561 -0.00970115]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0142294.h5
+
+[-0.03279161  0.02003068  0.00591667  0.02759454]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0152977.h5
+
+[ 0.01013455 -0.00671768 -0.01289464 -0.01038425]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0147754.h5
+
+[ 0.05372077  0.00320441  0.11043045  0.02814183]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0142253.h5
+
+[ 0.05372077 -0.02128118 -0.10828194 -0.01521647]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0142333.h5
+
+[-0.0749684   0.02426934 -0.03110895 -0.01923996]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0158080.h5
+
+[-0.03279161  0.0084728  -0.06276615 -0.00882165]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0153013.h5
+
+[-0.03279161  0.03373235 -0.01646396  0.07616115]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0152937.h5
+
+[-0.03279161 -0.00810659 -0.02165269 -0.10358223]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0153061.h5
+
+[ 0.01013455 -0.02330589 -0.06222495 -0.09564584]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0147806.h5
+
+[-0.0749684   0.03560734 -0.00758179  0.02164249]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0158047.h5
+
+[ 0.01013455  0.00479174 -0.16775812  0.01368995]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0147723.h5
+
+[-0.03279161  0.0084728  -0.01737129 -0.01245423]
+/gpfs/exfel/data/user/grotec/2NIP_S2E/sim_5kev_30fs_35_2NIP_EMC_Compton/diffr/diffr_out_0018595.h5
+/gpfs/exfel/data/user/grotec/2NIP_S2E/5keV_3fs_2NIP/diffr/diffr_Compton/diffr_out_0153012.h5
+
+(207799, 1715.6842510700226)
