@@ -1,4 +1,7 @@
 ## Mac OS:
+*.pyc
+data
+.tags
 .root
 .vscode
 *.DS_Store

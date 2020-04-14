@@ -41,6 +41,14 @@ def getData(data_root_path,pattern_index=0,d_type='diffr'):
         d = h5['data/'+d_type][...]
     return d
 
+def getDataWfile(data_path,d_type='diffr'):
+    """get data values with file name
+
+    """
+    with h5py.File(data_path,"r") as h5:
+        d = h5['data/'+d_type][...]
+    return d
+
 def plotLog(data, vmin=None, vmax=None, cmap="viridis"):
     fig, ax = plt.subplots()
     colormap = plt.get_cmap(cmap)
