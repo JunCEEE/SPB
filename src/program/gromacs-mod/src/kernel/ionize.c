@@ -39,6 +39,7 @@
 
 #include <math.h>
 #include <string.h>
+#include "../include/string2.h"
 #include "smalloc.h"
 #include "typedefs.h"
 #include "macros.h"
@@ -591,21 +592,25 @@ size_t readProfile(double *t_profile, double *inten_profile)
 }
 
 
-double powerSASE(real t, double *t_profile, double *inten_profile, size_t n_profile)
+real powerSASE(real t, double *t_profile, double *inten_profile, size_t n_profile,int ephot, real rho)
 {
   real dt = t_profile[1] - t_profile[0];
   int t_step = round(t / dt);
   if (t_step < n_profile)
+  {
     // 1 Joule = 6.242e15 keV
     real kev = 6.242e15;
     // photon energy
-    real photon_energy = ephot // keV
+	// TODO: decide the photon energy to use, the ephot defined in ionize.c is surprisingly integer rather than real
+    /*real photon_energy = ephot; // keV*/
+    real photon_energy = 4.96; // keV
     // n_photons per second
     real inten_t = inten_profile[t_step]*kev/photon_energy;
     // n_photons per second per area
     // TODO: confirm the area unit
     inten_t = inten_t/(M_PI * sqr(rho / 2));
     return inten_t;
+  }
   else
     return 0.0;
 }
@@ -715,7 +720,7 @@ void ionize(FILE *fp, t_mdatoms *md, char **atomname[], real t, t_inputrec *ir,
 
   real *t_profile, *inten_profile;
   size_t n_profile = readProfile(t_profile, inten_profile);
-  pt          = powerSASE(t, t_profile, inten_profile, n_profile);
+  pt          = powerSASE(t, t_profile, inten_profile, n_profile, ephot, rho);
   dq          = 0;
   nkdecay     = 0;
 
