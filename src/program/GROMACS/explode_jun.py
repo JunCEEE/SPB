@@ -2,6 +2,7 @@ from __future__ import division
 import os 
 import sys
 import numpy as np
+import shutil
 
 def get_to_dir(path):
 	try:
@@ -13,8 +14,8 @@ def get_to_dir(path):
 energy = 12; #(shift || die "Need an energy boost\n");
 myrand = 1993
 
-gmx_kernel = '/gpfs/exfel/data/user/juncheng/SPBProject/src/program/gromacs-mod/src/kernel/' # modified ionize.c
-gmx_tools = '/gpfs/exfel/data/user/juncheng/SPBProject/src/program/gromacs-mod/src/tools/' 
+gmx_kernel = '/gpfs/exfel/data/user/juncheng/SPBProject/src/program/gromacs-3.3.3/src/kernel/' # modified ionize.c
+gmx_tools = '/gpfs/exfel/data/user/juncheng/SPBProject/src/program/gromacs-3.3.3/src/tools/' 
 
 #gmx_kernel = '/home/nicusor/software/gromacs-3.3.3/src/kernel/' # unmodified version ionize.c
 #gmx_tools = '/home/nicusor/software/gromacs-3.3.3/src/tools/'
@@ -50,6 +51,7 @@ for imax in imax_list:
     for p in pulse_list:
         DIR = tmp + '/imax_'+ imax + '_pulse_' + p + '_' + 'energy_' + str(energy)
         get_to_dir(DIR)
+        shutil.copy2(os.path.join(cwd, 'profile.txt'),DIR) 
 
         # Convert FWHM to sigma
         print float(p)
@@ -217,9 +219,9 @@ userreal4                = 100
 	        # "grompp",'-v','-c',"$cwd/after_em",'-p',"$cwd/topol",'-o',$tpr;
         os.system(gmx_kernel + 'grompp -v -c ' + cwd + '/after_em' + ' -p ' + cwd + '/topol' +' -o ' + tpr ) # kernel
 	    #os.system(gmx_kernel + 'mdrun -v ionize -o traj.trr -s ' + tpr)
-        #os.system(gmx_kernel + 'mdrun -v -ionize -s ' + tpr + ' -o traj.trr')
+        os.system(gmx_kernel + 'mdrun -v -ionize -s ' + tpr + ' -o traj.trr')
+        print (gmx_kernel + 'mdrun -v -ionize -s ' + tpr + ' -o traj.trr')
         print (DIR)
-        print(gmx_kernel + 'mdrun -v -ionize -s ' + tpr + ' -o traj.trr')
         #os.system('gzip md.log ener.edr traj.trr confout.gro ionize.log ionize.xvg &') #system "gzip md.log ener.edr traj.trr confout.gro ionize.log ionize.xvg &";
         os.chdir(cwd)
 	       	#system 
