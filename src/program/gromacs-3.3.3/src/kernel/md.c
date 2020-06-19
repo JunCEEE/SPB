@@ -137,7 +137,7 @@ int readProfile(real *t_profile, real *inten_profile)
   while (fgets(line, STRLEN, fp))
   {
     sscanf(line, "%lf %lf", &buff_t, &buff_a);
-	t_profile[n] = buff_t;
+	t_profile[n] = buff_t * 1e-3; //unit: ps
 	inten_profile[n] = buff_a;
     n++;
   }
