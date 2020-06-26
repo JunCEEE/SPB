@@ -58,12 +58,12 @@ for imax in imax_list:
         pulse = float(p)/fwhm_to_sigma
         #dt = 0.00005
         dt = timestep*0.001 # from fs to ps
-        dt = timestep # from fs to ps
+        #dt = timestep # from fs to ps
         #dt = 0.00005
         #	nsteps = int((pulse*6)/dt)
         nsteps = numofsteps
         #tinit = -pulse*3
-        tinit = t0 
+        tinit = float(t0)*0.001 
 
         nstxout = 1 # int(nsteps/60.0) # otherwise maybe integer division
         nstlog  = 1 #int(0.0005/dt)
